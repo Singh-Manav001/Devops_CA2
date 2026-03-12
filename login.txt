@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Login Module: Main branch implementation
+=======
+Login Module : Initial implementation
+>>>>>>> login-feature
